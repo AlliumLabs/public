@@ -1,2 +1,2 @@
 # public
-Public scripts for scaffolding projects
+Public data for Allium projects
